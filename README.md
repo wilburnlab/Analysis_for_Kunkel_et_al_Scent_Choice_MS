@@ -1,1 +1,1 @@
-# Analysis_for_Kunkel_et_al_Scent_Choice_MS
+# Analysis in R for Kunkel et al. (2023)
